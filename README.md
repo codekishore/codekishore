@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm KISHORE</h1>
 <h3 align="center">💻 Full-Stack Developer • 📊 Aspiring Data Analyst • ⚡ Tech Explorer <br> <em>"Code, Analyze, Build, Repeat."</em></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codekishore&label=Profile%20views&color=0e75b6&style=flat" alt="codekishore" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codekishore" alt="codekishore" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codekishore&label=Profile%20views&color=0e75b6&style=plastic" alt="codekishore" /> </p>
 
 - 🔭 I’m currently working on [SEO Optimization for QR Crafter – A QR code generator web app](https://qr-crafter.web.app)
 
